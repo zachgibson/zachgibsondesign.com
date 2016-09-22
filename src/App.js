@@ -47,7 +47,7 @@ class App extends Component {
                   A white-labeled app for anyone with a fan base. I contributed everything from designing UI and icons to making product decisions and writing animations for this app. Oh, and the Fresh Prince uses this for his app, no biggie.
                 </p>
               </div>
-              <div style={{ zIndex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <div className="iPhone">
                 <div style={{ position: 'absolute' }}>
                   <img style={{ width: 276 }} src={catalyst} alt="screenshot" />
                 </div>
@@ -55,7 +55,7 @@ class App extends Component {
               </div>
             </div>
             <div className="Project-left-aligned">
-              <div style={{ zIndex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <div className="iPhone">
                 <div style={{ position: 'absolute' }}>
                   <img style={{ width: 276 }} src={cinnabar} alt="screenshot" />
                 </div>

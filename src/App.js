@@ -48,7 +48,7 @@ class App extends Component {
                 </p>
               </div>
               <div className="iPhone">
-                <div style={{ position: 'absolute' }}>
+                <div className="iPhone-media">
                   <img style={{ width: 276 }} src={catalyst} alt="screenshot" />
                 </div>
                 <img src={iPhone} alt="iPhone" />
@@ -56,7 +56,7 @@ class App extends Component {
             </div>
             <div className="Project-left-aligned">
               <div className="iPhone">
-                <div style={{ position: 'absolute' }}>
+                <div className="iPhone-media">
                   <img style={{ width: 276 }} src={cinnabar} alt="screenshot" />
                 </div>
                 <img src={iPhone} alt="iPhone" />

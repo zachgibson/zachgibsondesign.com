@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="47px" height="41px" viewBox="0 0 47 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="0" width="4" height="4.25"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4.25" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-copy-14" transform="translate(-546.000000, -427.000000)">
+            <g id="Group-15" transform="translate(548.000000, 429.000000)">
+                <path d="M43.3170732,12.5131201 C43.3170732,8.43197327 41.6281125,2.31025306 33.9960571,0.269679649 C28.1947202,-0.878126643 25.0000296,1.87667703 22.8998806,4.04025185 L21.6391435,5.35189021 L20.3784065,4.04025185 C18.2782574,1.87667703 15.0835669,-0.878126643 9.28222997,0.269679649 C1.65017461,2.31025306 -4.03891816e-09,8.43197327 0,12.5131201 C1.21167544e-08,24.7565615 21.6585366,37 21.6585366,37 C21.6585366,37 43.3170732,24.7565615 43.3170732,12.5131201 Z" id="Combined-Shape" stroke="#5F40A3" stroke-width="3" fill="#FFBAC8"></path>
+                <g id="Group-5" transform="translate(6.000000, 5.500000)" stroke="#4E2B99">
+                    <path d="M1.97421171,2 L1,8.94000244" id="Line" stroke-width="1.5"></path>
+                    <g id="Group-17" transform="translate(15.514388, 18.971136) rotate(-14.000000) translate(-15.514388, -18.971136) translate(13.014388, 14.471136)" stroke-width="1.5">
+                        <path d="M1.75,1 L1.75,8" id="Line"></path>
+                        <path d="M3,-0.25 L3,3.75" id="Line" transform="translate(3.000000, 1.750000) rotate(-270.000000) translate(-3.000000, -1.750000) "></path>
+                        <path d="M2.5,3 L2.5,6" id="Line" transform="translate(2.500000, 4.500000) rotate(-270.000000) translate(-2.500000, -4.500000) "></path>
+                        <path d="M3,5.25 L3,9.25" id="Line" transform="translate(3.000000, 7.250000) rotate(-270.000000) translate(-3.000000, -7.250000) "></path>
+                    </g>
+                    <g id="Group-20" transform="translate(22.243436, 4.865755) rotate(10.000000) translate(-22.243436, -4.865755) translate(19.743436, 0.365755)" stroke-width="1.5">
+                        <path d="M1.75,1 L1.75,8" id="Line"></path>
+                        <path d="M3,-0.25 L3,3.75" id="Line" transform="translate(3.000000, 1.750000) rotate(-270.000000) translate(-3.000000, -1.750000) "></path>
+                        <path d="M2.5,3 L2.5,6" id="Line" transform="translate(2.500000, 4.500000) rotate(-270.000000) translate(-2.500000, -4.500000) "></path>
+                        <path d="M3,5.25 L3,9.25" id="Line" transform="translate(3.000000, 7.250000) rotate(-270.000000) translate(-3.000000, -7.250000) "></path>
+                    </g>
+                    <g id="Group-21" transform="translate(15.341012, 7.159090) rotate(5.000000) translate(-15.341012, -7.159090) translate(13.341012, 3.159090)" stroke-width="1.5">
+                        <path d="M2,1 L2,8" id="Line"></path>
+                        <path d="M4,1.75 L0,1.75" id="Line"></path>
+                    </g>
+                    <g id="Group-16" transform="translate(23.025073, 15.396321) rotate(-16.000000) translate(-23.025073, -15.396321) translate(21.025073, 11.396321)" stroke-width="1.5">
+                        <path d="M2,1 L2,8" id="Line"></path>
+                        <path d="M4,1.75 L0,1.75" id="Line"></path>
+                    </g>
+                    <g id="Group-22" transform="translate(7.662134, 6.047252) rotate(-12.000000) translate(-7.662134, -6.047252) translate(4.662134, 2.547252)" stroke-width="1.5">
+                        <path d="M1.75,0 L1.75,7" id="Line"></path>
+                        <path d="M4.75,0 L4.75,7" id="Line"></path>
+                        <path d="M1.81976318,0.310180664 L4.68634033,6.69482422" id="Line"></path>
+                    </g>
+                    <g id="Group-18" transform="translate(6.892215, 16.224182) rotate(17.000000) translate(-6.892215, -16.224182) translate(3.892215, 12.724182)" stroke-width="1.5">
+                        <path d="M1.75,0 L1.75,7" id="Line"></path>
+                        <path d="M4.75,0 L4.75,7" id="Line"></path>
+                        <path d="M1.81976318,0.310180664 L4.68634033,6.69482422" id="Line"></path>
+                    </g>
+                    <g id="Group-19" transform="translate(29.173060, 6.943296) rotate(12.000000) translate(-29.173060, -6.943296) translate(26.673060, 3.443296)">
+                        <path d="M1.75,0 L1.75,7" id="Line" stroke-width="1.5"></path>
+                        <use id="Rectangle-11" mask="url(#mask-2)" stroke-width="3" xlink:href="#path-1"></use>
+                        <path d="M1.25,3.5 L3.74531555,3.5 C4.02404508,3.5 4.25,3.71505737 4.25,3.99047852 L4.25,7" id="Rectangle-11" stroke-width="1.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -59,6 +59,52 @@
   }
 }
 
+.Footer {
+  position: relative;
+}
+
+.Footer-top {
+  position: relative;
+  z-index: 1;
+  align-items: flex-end;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.Footer-bottom {
+  position: relative;
+  z-index: 1;
+  align-items: center;
+  flex: 1;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  text-align: center;
+}
+
+.Footer-social {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.Footer-social-icon {
+  display: flex;
+  padding: 16px;
+}
+
+@media (min-width: 960px) {
+  .Footer-top, .Footer-bottom {
+    display: flex;
+  }
+  .Footer-bottom {
+    text-align: left;
+  }
+  .Footer-social {
+    justify-content: flex-end;
+  }
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

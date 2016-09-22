@@ -100,24 +100,22 @@ class App extends Component {
             </div>
             <div style={{ flex: 1 }}></div>
           </div>
-          <div style={{ display: 'flex', flex: 1 }}>
-            <div style={{ display: 'flex', flex: 1, alignItems: 'center' }}>
-              <p style={{ fontSize: 12 }}>Designed in <a href="https://www.sketchapp.com/">Sketch</a>. Coded in <a href="https://www.sublimetext.com/">Sublime</a>. Built using <a href="https://facebook.github.io/react/">React</a>. Hosted on <a href="https://aws.amazon.com/">AWS</a>. © Zachary Gibson 2016–∞</p>
-            </div>
-            <div style={{ display: 'flex', flex: 1, flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-end' }}>
-              <a style={{ marginLeft: 32 }} href="https://twitter.com/zacharykeith_">
+          <div className="Footer-bottom">
+            <p style={{ fontSize: 12, lineHeight: '20px' }}>Designed in <a href="https://www.sketchapp.com/">Sketch</a>. Coded in <a href="https://www.sublimetext.com/">Sublime</a>. Built using <a href="https://facebook.github.io/react/">React</a>. Hosted on <a href="https://aws.amazon.com/">AWS</a>. © Zachary Gibson 2016–∞</p>
+            <div className="Footer-social">
+              <a className="Footer-social-icon" href="https://twitter.com/zacharykeith_">
                 <img src={icon.twitter} alt="twitter" />
               </a>
-              <a style={{ marginLeft: 32 }} href="https://www.instagram.com/zacharykeith_/">
+              <a className="Footer-social-icon" href="https://www.instagram.com/zacharykeith_/">
                 <img src={icon.instagram} alt="instagram" />
               </a>
-              <a style={{ marginLeft: 32 }} href="https://github.com/zachgibson">
+              <a className="Footer-social-icon" href="https://github.com/zachgibson">
                 <img src={icon.github} alt="github" />
               </a>
-              <a style={{ marginLeft: 32 }} href="https://www.pinterest.com/ssoduhpopp/">
+              <a className="Footer-social-icon" href="https://www.pinterest.com/ssoduhpopp/">
                 <img src={icon.pinterest} alt="pinterest" />
               </a>
-              <a style={{ marginLeft: 32 }} href="https://dribbble.com/zacharygibson">
+              <a className="Footer-social-icon" href="https://dribbble.com/zacharygibson">
                 <img src={icon.dribbble} alt="dribbble" />
               </a>
             </div>

@@ -16,9 +16,9 @@ class App extends Component {
         <div className="App-header">
           <a href="/"><img src={logo} alt="logo" /></a>
         </div>
-        <h1 style={{ marginBottom: 16, fontSize: 56, lineHeight: '64px', letterSpacing: -2, }}>Yo! I’m Zach, and I design apps.</h1>
+        <h1 className="H1">Yo! I’m Zach, and I design apps.</h1>
         <div style={{ maxWidth: 1024 }}>
-          <p style={{ margin: 0, fontSize: 34, fontWeight: 'bold', lineHeight: '52px', letterSpacing: -0.88, }}>
+          <p style={{ margin: 0, fontSize: '2.125rem', fontWeight: 'bold', lineHeight: '3.25rem', letterSpacing: -0.88, }}>
             I’m a fan of rad socks
             <img style={{ marginBottom: -8, paddingLeft: 8, paddingRight: 8 }} src={icon.sock} alt="sock" />,
             outer space
@@ -39,39 +39,31 @@ class App extends Component {
         </div>
         <div style={{ marginTop: 160, marginBottom: 160 }}>
           <h4 style={{ textTransform: 'uppercase', letterSpacing: 0.42 }}>Selected Works</h4>
-          <div style={{ margin: 'auto', maxWidth: 1056, display: 'flex', justifyContent: 'flex-end' }}>
-            <div style={{ display: 'flex', alignItems: 'center' }}>
-              <div style={{ maxWidth: 480, marginRight: 24 }}>
-                <h2 style={{ marginBottom: 8, fontSize: 44, letterSpacing: -2 }}>Catalyst by Buzznog</h2>
-                <p style={{ marginTop: 0, color: colors.pink, fontSize: 24, lineHeight: '32px' }}>
+          <div className="Work">
+            <div className="Project-right-aligned">
+              <div style={{ zIndex: 1, maxWidth: 480, marginRight: 24 }}>
+                <h2 className="H2">Catalyst by Buzznog</h2>
+                <p className="Lead-text">
                   A white-labeled app for anyone with a fan base. I contributed everything from designing UI and icons to making product decisions and writing animations for this app. Oh, and the Fresh Prince uses this for his app, no biggie.
                 </p>
               </div>
-              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <div style={{ zIndex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <div style={{ position: 'absolute' }}>
                   <img style={{ width: 276 }} src={catalyst} alt="screenshot" />
                 </div>
                 <img src={iPhone} alt="iPhone" />
               </div>
-              <div style={{ zIndex: -1, position: 'absolute', left: 0, right: 0, display: 'flex', justifyContent: 'center' }}>
-                <div style={{ transform: 'skewY(-8deg) skewX(-8deg)', width: 640, height: 400, backgroundColor: colors.peach }}></div>
-              </div>
             </div>
-          </div>
-          <div style={{ margin: 'auto', maxWidth: 1056, display: 'flex' }}>
-            <div style={{ display: 'flex', alignItems: 'center' }}>
-              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+            <div className="Project-left-aligned">
+              <div style={{ zIndex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <div style={{ position: 'absolute' }}>
                   <img style={{ width: 276 }} src={cinnabar} alt="screenshot" />
                 </div>
                 <img src={iPhone} alt="iPhone" />
               </div>
-              <div style={{ zIndex: -1, position: 'absolute', left: 0, right: 0, display: 'flex', justifyContent: 'center' }}>
-                <div style={{ transform: 'skewY(8deg) skewX(8deg)', width: 640, height: 400, backgroundColor: colors.peach }}></div>
-              </div>
-              <div style={{ maxWidth: 480, marginLeft: 24 }}>
-                <h2 style={{ marginBottom: 8, fontSize: 44, letterSpacing: -2 }}>Cinnabar</h2>
-                <p style={{ marginTop: 0, color: colors.pink, fontSize: 24, lineHeight: '32px' }}>
+              <div style={{ zIndex: 1, maxWidth: 480, marginLeft: 24 }}>
+                <h2 className="H2">Cinnabar</h2>
+                <p className="Lead-text">
                   This is a side project my buddy @leblaaanc and myself have been working on. Trying to defeat Charizard? Don’t worry, just use Golem with Rock Throw and Stone Edge.
                 </p>
               </div>

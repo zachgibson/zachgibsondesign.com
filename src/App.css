@@ -19,6 +19,25 @@
   font-size: large;
 }
 
+.H1 {
+  margin-bottom: 16px;
+  font-size: 3.5rem;
+  line-height: 4rem;
+  letter-spacing: -2px;
+}
+
+.H2 {
+  margin-bottom: 0.5rem;
+  font-size: 2.75rem;
+  letter-spacing: -0.125rem;
+}
+
+.Lead-text {
+  margin-top: 0;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

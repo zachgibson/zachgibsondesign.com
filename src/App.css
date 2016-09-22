@@ -45,6 +45,8 @@
 }
 
 .Project-right-aligned {
+  display: flex;
+  flex-direction: column-reverse;
   align-items: center;
   justify-content: flex-end;
 }
@@ -69,8 +71,11 @@
 }
 
 @media (min-width: 960px) {
-  .Work, .Project-left-aligned, .Project-right-aligned {
+  .Work, .Project-left-aligned {
     display: flex;
+  }
+  .Project-right-aligned {
+    flex-direction: row;
   }
 }
 

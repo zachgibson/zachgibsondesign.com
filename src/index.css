@@ -1,6 +1,13 @@
 html {
+  font: 80%/1.5 Karla, Helvetica Neue, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   background-color: #FFF1ED;
+}
+
+@media (min-width: 960px) {
+  html {
+    font: 100%/1.5 Karla, Helvetica Neue, Helvetica, sans-serif;
+  }
 }
 
 body {

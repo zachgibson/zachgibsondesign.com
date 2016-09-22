@@ -14,9 +14,7 @@ class App extends Component {
     return (
       <div className="App" style={{ color: colors.purple }}>
         <div className="App-header">
-          <a href="/">
-            <img src={logo} alt="logo" />
-          </a>
+          <a href="/"><img src={logo} alt="logo" /></a>
         </div>
         <h1 style={{ marginBottom: 16, fontSize: 56, lineHeight: '64px', letterSpacing: -2, }}>Yo! I’m Zach, and I design apps.</h1>
         <div style={{ maxWidth: 1024 }}>

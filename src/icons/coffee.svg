@@ -1,28 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="26px" height="40px" viewBox="0 0 26 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 24</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="17" y="16" width="9" height="19"></rect>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9" height="19" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <path d="M0,13 L20,13 L20,37.0073661 C20,38.6601521 18.656688,40 17.0057979,40 L2.99420208,40 C1.34054993,40 1.31895862e-16,38.6610658 1.23395975e-16,37.0073661 L0,13 Z" id="path-3"></path>
-        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="27" fill="white">
-            <use xlink:href="#path-3"></use>
-        </mask>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1-copy-14" transform="translate(-377.000000, -369.000000)" stroke="#4E2B99">
-            <g id="Group-24" transform="translate(377.000000, 369.000000)">
-                <use id="Rectangle-28-Copy" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
-                <use id="Rectangle-27-Copy" mask="url(#mask-4)" stroke-width="6" fill="#FFBAC8" xlink:href="#path-3"></use>
-                <path d="M9.5,0 L9.5,10" id="Line" stroke-width="3"></path>
-                <path d="M15.5,5 L15.5,10" id="Line" stroke-width="3"></path>
-                <path d="M15.5,0 L15.5,3" id="Line" stroke-width="3"></path>
-                <path d="M3.5,3 L3.5,9" id="Line" stroke-width="3"></path>
-            </g>
-        </g>
-    </g>
+<svg width="26" height="40" viewBox="0 0 26 40" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Coffee
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M23 19h-6l3-3v19l-3-3h6V19zm3 15.005c0 .544-.447.995-.998.995H17V16h8.002c.552 0 .998.445.998.995v17.01z" fill="#4E2B99"/>
+    <path d="M0 13h20v24.007C20 38.66 18.657 40 17.006 40H2.994C1.34 40 0 38.66 0 37.007V13z" fill="#FFBAC8"/>
+    <path d="M17 16H3v21.007C3 37.003 17.006 37 17.006 37 17.002 37 17 16 17 16zm3-3v24.007C20 38.66 18.657 40 17.006 40H2.994C1.34 40 0 38.66 0 37.007V13h20zM8 10h3V0H8M14 10h3V5h-3M14 3h3V0h-3M2 9h3V3H2" fill="#4E2B99"/>
+  </g>
 </svg>

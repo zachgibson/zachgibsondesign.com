@@ -1,44 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="60px" height="58px" viewBox="0 0 60 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>Group + Group</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1-copy-14" transform="translate(-687.000000, -256.000000)">
-            <g id="Group-+-Group" transform="translate(687.000000, 256.000000)">
-                <g id="Group-Copy-2">
-                    <ellipse id="Oval-94" fill="#4E2B99" cx="54.4" cy="15.0958904" rx="2.4" ry="2.38356164"></ellipse>
-                    <ellipse id="Oval-94-Copy" fill="#FFBAC8" cx="13.2" cy="44.0958904" rx="1.2" ry="1.19178082"></ellipse>
-                    <ellipse id="Oval-94-Copy-3" fill="#4E2B99" cx="58.8" cy="37.739726" rx="1.2" ry="1.19178082"></ellipse>
-                    <ellipse id="Oval-94-Copy-2" fill="#4E2B99" cx="23.2" cy="9.53424658" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-4" fill="#4E2B99" cx="40" cy="56.4109589" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94" fill="#4E2B99" cx="7.6" cy="34.5616438" rx="2.8" ry="2.78082192"></ellipse>
-                    <ellipse id="Oval-94-Copy-3" fill="#FFBAC8" cx="50.8" cy="6.75342466" rx="1.2" ry="1.19178082"></ellipse>
-                    <ellipse id="Oval-94-Copy-3" fill="#FFBAC8" cx="2.8" cy="25.8219178" rx="1.2" ry="1.19178082"></ellipse>
-                    <ellipse id="Oval-94-Copy-3" fill="#FFBAC8" cx="8.4" cy="49.6575342" rx="1.2" ry="1.19178082"></ellipse>
-                    <ellipse id="Oval-94" fill="#4E2B99" cx="31.6" cy="2.78082192" rx="2.8" ry="2.78082192"></ellipse>
-                    <ellipse id="Oval-94-Copy-2" fill="#4E2B99" cx="8" cy="11.9178082" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-2" fill="#4E2B99" cx="5.6" cy="43.6986301" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-2" fill="#4E2B99" cx="20" cy="48.4657534" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-2" fill="#4E2B99" cx="53.6" cy="42.109589" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-2" fill="#4E2B99" cx="53.6" cy="26.2191781" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-2" fill="#4E2B99" cx="47.2" cy="15.890411" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-4" fill="#FFBAC8" cx="16" cy="14.3013699" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-4" fill="#FFBAC8" cx="5.6" cy="19.0684932" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-4" fill="#FFBAC8" cx="1.6" cy="37.3424658" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94-Copy-4" fill="#FFBAC8" cx="54.4" cy="33.369863" rx="1.6" ry="1.5890411"></ellipse>
-                    <ellipse id="Oval-94" fill="#FFBAC8" cx="30.4" cy="50.8493151" rx="2.4" ry="2.38356164"></ellipse>
-                    <ellipse id="Oval-94-Copy-3" fill="#FFBAC8" cx="46.8" cy="11.5205479" rx="1.2" ry="1.19178082"></ellipse>
-                </g>
-                <g id="Group-Copy-3" transform="translate(31.200000, 29.506849) scale(-1, 1) translate(-31.200000, -29.506849) translate(14.200000, 13.506849)" stroke="#4E2B99" stroke-width="3">
-                    <circle id="Oval-93" fill="#FFBAC8" cx="16.7007888" cy="15.9931507" r="8.5"></circle>
-                    <path d="M16.2,7.49315068 C9.572583,7.49315068 4.2,12.8657337 4.2,19.4931507 C4.2,26.1205677 9.572583,31.4931507 16.2,31.4931507 L16.2,31.4931507" id="Oval-93-Copy"></path>
-                    <path d="M8.2,16.4931507 C8.2,23.1205677 13.7964406,28.4931507 20.7,28.4931507 L20.7,28.4931507 C27.6035594,28.4931507 33.2,23.1205677 33.2,16.4931507" id="Oval-93-Copy-3"></path>
-                    <path d="M25.2,15.4931507 C25.2,8.86573369 19.6035594,3.49315068 12.7,3.49315068 C5.79644063,3.49315068 0.2,8.86573369 0.2,15.4931507" id="Oval-93-Copy-4"></path>
-                    <path d="M18.2,24.4931507 C24.827417,24.4931507 30.2,19.1205677 30.2,12.4931507 C30.2,5.86573369 24.827417,0.493150685 18.2,0.493150685" id="Oval-93-Copy-2"></path>
-                </g>
-            </g>
-        </g>
+<svg width="60" height="58" viewBox="0 0 60 58" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Galaxy
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <ellipse fill="#4E2B99" cx="54.4" cy="15.096" rx="2.4" ry="2.384"/>
+    <ellipse fill="#FFBAC8" cx="13.2" cy="44.096" rx="1.2" ry="1.192"/>
+    <ellipse fill="#4E2B99" cx="58.8" cy="37.74" rx="1.2" ry="1.192"/>
+    <ellipse fill="#4E2B99" cx="23.2" cy="9.534" rx="1.6" ry="1.589"/>
+    <ellipse fill="#4E2B99" cx="40" cy="56.411" rx="1.6" ry="1.589"/>
+    <ellipse fill="#4E2B99" cx="7.6" cy="34.562" rx="2.8" ry="2.781"/>
+    <ellipse fill="#FFBAC8" cx="50.8" cy="6.753" rx="1.2" ry="1.192"/>
+    <ellipse fill="#FFBAC8" cx="2.8" cy="25.822" rx="1.2" ry="1.192"/>
+    <ellipse fill="#FFBAC8" cx="8.4" cy="49.658" rx="1.2" ry="1.192"/>
+    <ellipse fill="#4E2B99" cx="31.6" cy="2.781" rx="2.8" ry="2.781"/>
+    <ellipse fill="#4E2B99" cx="8" cy="11.918" rx="1.6" ry="1.589"/>
+    <ellipse fill="#4E2B99" cx="5.6" cy="43.699" rx="1.6" ry="1.589"/>
+    <ellipse fill="#4E2B99" cx="20" cy="48.466" rx="1.6" ry="1.589"/>
+    <ellipse fill="#4E2B99" cx="53.6" cy="42.11" rx="1.6" ry="1.589"/>
+    <ellipse fill="#4E2B99" cx="53.6" cy="26.219" rx="1.6" ry="1.589"/>
+    <ellipse fill="#4E2B99" cx="47.2" cy="15.89" rx="1.6" ry="1.589"/>
+    <ellipse fill="#FFBAC8" cx="16" cy="14.301" rx="1.6" ry="1.589"/>
+    <ellipse fill="#FFBAC8" cx="5.6" cy="19.068" rx="1.6" ry="1.589"/>
+    <ellipse fill="#FFBAC8" cx="1.6" cy="37.342" rx="1.6" ry="1.589"/>
+    <ellipse fill="#FFBAC8" cx="54.4" cy="33.37" rx="1.6" ry="1.589"/>
+    <ellipse fill="#FFBAC8" cx="30.4" cy="50.849" rx="2.4" ry="2.384"/>
+    <ellipse fill="#FFBAC8" cx="46.8" cy="11.521" rx="1.2" ry="1.192"/>
+    <g transform="matrix(-1 0 0 1 50.2 11.507)">
+      <circle fill="#FFBAC8" cx="18.701" cy="17.993" r="8.5"/>
+      <path d="M28.7 17.993c0-5.523-4.476-10-10-10-5.522 0-10 4.477-10 10s4.478 10 10 10c5.524 0 10-4.477 10-10zm-17 0c0-3.866 3.135-7 7-7 3.867 0 7 3.134 7 7s-3.133 7-7 7c-3.865 0-7-3.134-7-7z" fill="#4E2B99"/>
+      <path d="M4.7 21.493c0 7.456 6.044 13.5 13.5 13.5v-3c-5.8 0-10.5-4.7-10.5-10.5s4.7-10.5 10.5-10.5v-3c-7.456 0-13.5 6.044-13.5 13.5z" fill="#4E2B99"/>
+      <path d="M22.7 31.993c7.72 0 14-6.03 14-13.5h-3c0 5.785-4.91 10.5-11 10.5s-11-4.715-11-10.5h-3c0 7.47 6.28 13.5 14 13.5zM14.7 3.993c-7.72 0-14 6.03-14 13.5h3c0-5.785 4.91-10.5 11-10.5s11 4.715 11 10.5h3c0-7.47-6.28-13.5-14-13.5z" fill="#4E2B99"/>
+      <path d="M33.7 14.493c0-7.456-6.044-13.5-13.5-13.5v3c5.8 0 10.5 4.7 10.5 10.5s-4.7 10.5-10.5 10.5v3c7.456 0 13.5-6.044 13.5-13.5z" fill="#4E2B99"/>
     </g>
+  </g>
 </svg>

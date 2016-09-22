@@ -38,6 +38,27 @@
   line-height: 2rem;
 }
 
+.Work {
+  flex-direction: column;
+  max-width: 1056px;
+  margin: 0 auto;
+}
+
+.Project-right-aligned {
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Project-left-aligned {
+  align-items: center;
+}
+
+@media (min-width: 960px) {
+  .Work, .Project-left-aligned, .Project-right-aligned {
+    display: flex;
+  }
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

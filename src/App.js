@@ -92,7 +92,7 @@ class App extends Component {
             <div style={{ flex: 1 }}></div>
           </div>
           <div className="Footer-bottom">
-            <p style={{ fontSize: 12, lineHeight: '20px' }}>Designed in <a href="https://www.sketchapp.com/">Sketch</a>. Coded in <a href="https://www.sublimetext.com/">Sublime</a>. Built using <a href="https://facebook.github.io/react/">React</a>. Hosted on <a href="https://aws.amazon.com/">AWS</a>. © Zachary Gibson 2016–∞</p>
+            <p style={{ fontSize: 12, lineHeight: '20px' }}>Designed in <a className="Link" href="https://www.sketchapp.com/">Sketch</a>. Coded in <a className="Link" href="https://www.sublimetext.com/">Sublime</a>. Built using <a className="Link" href="https://facebook.github.io/react/">React</a>. Hosted on <a className="Link" href="https://aws.amazon.com/">AWS</a>. © Zachary Gibson 2016–∞</p>
             <div className="Footer-social">
               <a className="Footer-social-icon" href="https://twitter.com/zacharykeith_">
                 <img src={icon.twitter} alt="twitter" />

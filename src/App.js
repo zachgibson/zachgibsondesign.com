@@ -20,21 +20,21 @@ class App extends Component {
         <div style={{ maxWidth: 1024 }}>
           <p style={{ margin: 0, fontSize: '2.125rem', fontWeight: 'bold', lineHeight: '3.25rem', letterSpacing: -0.88, }}>
             I’m a fan of rad socks
-            <img style={{ marginBottom: -8, paddingLeft: 8, paddingRight: 8 }} src={icon.sock} alt="sock" />,
+            <img className="App-header-icon" style={{ marginBottom: -8, paddingLeft: 8, paddingRight: 8 }} src={icon.sock} alt="sock" />,
             outer space
-            <img style={{ marginBottom: -16, paddingLeft: 8, paddingRight: 8 }} src={icon.galaxy} alt="galaxy" />,
+            <img className="App-header-icon" style={{ marginBottom: -16, paddingLeft: 8, paddingRight: 8 }} src={icon.galaxy} alt="galaxy" />,
             pepperoni jalapeño pizza
-            <img style={{ marginBottom: -8, paddingLeft: 4, paddingRight: 4 }} src={icon.pizza} alt="pizza" />,
+            <img className="App-header-icon" style={{ marginBottom: -8, paddingLeft: 4, paddingRight: 4 }} src={icon.pizza} alt="pizza" />,
             and Ancient Aliens
-            <img style={{ marginBottom: -8, paddingLeft: 4 }} src={icon.alien} alt="alien" />;
+            <img className="App-header-icon" style={{ marginBottom: -8, paddingLeft: 4 }} src={icon.alien} alt="alien" />;
             I’m obsessed with caffeinated problem solving
-            <img style={{ marginBottom: -4, paddingLeft: 8, paddingRight: 8 }} src={icon.coffee} alt="coffee" />,
+            <img className="App-header-icon" style={{ marginBottom: -4, paddingLeft: 8, paddingRight: 8 }} src={icon.coffee} alt="coffee" />,
             prototyping with React Native
-            <img style={{ marginBottom: -4, paddingLeft: 4 }} src={icon.atom} alt="atom" />,
+            <img className="App-header-icon" style={{ marginBottom: -4, paddingLeft: 4 }} src={icon.atom} alt="atom" />,
             Tolkien fantasy
-            <img style={{ marginBottom: -8, paddingLeft: 8 }} src={icon.sauron} alt="sauron" />,
+            <img className="App-header-icon" style={{ marginBottom: -8, paddingLeft: 8 }} src={icon.sauron} alt="sauron" />,
             and the Internet
-            <img style={{ marginBottom: -8, paddingLeft: 4 }} src={icon.internet} alt="internet" />.
+            <img className="App-header-icon" style={{ marginBottom: -8, paddingLeft: 4 }} src={icon.internet} alt="internet" />.
           </p>
         </div>
         <div style={{ marginTop: 160, marginBottom: 160 }}>

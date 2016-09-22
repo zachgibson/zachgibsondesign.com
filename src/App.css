@@ -15,8 +15,14 @@
   margin-bottom: 88px;
 }
 
-.App-intro {
-  font-size: large;
+.App-header-icon {
+  display: none;
+}
+
+@media (min-width: 960px) {
+  .App-header-icon {
+    display: inline-block;
+  }
 }
 
 .H1 {

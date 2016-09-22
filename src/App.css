@@ -44,6 +44,10 @@
   line-height: 2rem;
 }
 
+.Link {
+  color: #5F40A3;
+}
+
 .Work {
   flex-direction: column;
   max-width: 1056px;

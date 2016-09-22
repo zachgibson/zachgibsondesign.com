@@ -83,9 +83,10 @@ class App extends Component {
         <div style={{ marginBottom: 96 }}>
           <h4 style={{ textTransform: 'uppercase', letterSpacing: 0.42 }}>Prototypes</h4>
         </div>
-        <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', height: 240 }}>
-          <img style={{ zIndex: -1, position: 'absolute', bottom: 0, left: -120 }} src={camo} alt="camo" />
-          <div style={{ display: 'flex', flex: 1, alignItems: 'flex-end' }}>
+        
+        <div className="Footer">
+          <img style={{ zIndex: 0, position: 'absolute', bottom: 0, left: -120 }} src={camo} alt="camo" />
+          <div className="Footer-top">
             <div style={{ flex: 1 }}>
               <p style={{ fontSize: 12, textTransform: 'uppercase' }}>Contact</p>
               <a style={{ color: colors.red, fontSize: 19, fontWeight: 'bold', textDecoration: 'none' }} href="mailto:zackgib@aol.com">zackgib@aol.com</a>

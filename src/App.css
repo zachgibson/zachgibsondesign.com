@@ -61,10 +61,15 @@
   flex-direction: column-reverse;
   align-items: center;
   justify-content: flex-end;
+  margin-bottom: 40px;
 }
 
 .Project-left-aligned {
+  display: flex;
+  flex-direction: column-reverse;
   align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 40px;
 }
 
 .iPhone {
@@ -76,15 +81,35 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  // box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.2);
+}
+
+.iPhone-media-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.Play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.9);
+  transition: transform 175ms cubic-bezier(0.39, 0.58, 0.57, 1);
+}
+
+.Play-button:hover {
+  transform: translate(-50%, -50%) scale(1);
 }
 
 @media (min-width: 960px) {
-  .Work, .Project-left-aligned {
+  .Work {
     display: flex;
   }
-  .Project-right-aligned {
-    flex-direction: row;
-  }
+  .Project-left-aligned { flex-direction: row-reverse; }
+  .Project-right-aligned { flex-direction: row; }
 }
 
 .Footer {

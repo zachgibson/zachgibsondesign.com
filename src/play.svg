@@ -1,0 +1,9 @@
+<svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Play button
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <circle fill="#FFF1ED" cx="36" cy="36" r="36"/>
+    <path d="M29.5 47.785l.004-23.564 18.678 11.777L29.5 47.785zM53.813 36L51.8 34.73l-23-14.5-2.3-1.45v34.44l2.3-1.45 23-14.5L53.813 36z" fill="#FFBAC8"/>
+  </g>
+</svg>

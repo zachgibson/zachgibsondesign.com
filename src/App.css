@@ -17,6 +17,8 @@
 
 .App-header-icon {
   display: none;
+  margin: 4px;
+  margin-bottom: -8px;
 }
 
 @media (min-width: 960px) {

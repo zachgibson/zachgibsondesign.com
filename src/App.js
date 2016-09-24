@@ -12,6 +12,24 @@ import './webfonts/fonts.css';
 import catalystScreenshot from './catalyst.png';
 import cinnabarScreenshot from './cinnabar.png';
 
+var selectedProjects = [
+  {
+    "title": "Catalyst",
+    "copy": "A configurable app for music artists. I contributed everything from designing UI and icons to making product decisions and creating animations. Oh, and the Fresh Prince uses this for his app, no biggie.",
+    "iTunesLink": "https://appsto.re/us/Ttwsdb.i",
+    "googleLink": "https://play.google.com/store/apps/details?id=com.buzznog.catalyst.FloridaGeorgiaLine",
+    "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/FGL.mov",
+    "posterImage": catalystScreenshot
+  },
+  {
+    "title": "Cinnabar",
+    "copy": "This is a side project my buddy and I have been working on to supplement the Gymming experience in Pokémon GO. Trying to defeat Charizard? Don’t worry, just use Golem with Rock Throw and Stone Edge for the best possible chance of defeat.",
+    "iTunesLink": "https://appsto.re/us/0DO3db.i",
+    "googleLink": "",
+    "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/Cinnabar.mov",
+    "posterImage": cinnabarScreenshot
+  },
+];
 
 class App extends Component {
   render() {

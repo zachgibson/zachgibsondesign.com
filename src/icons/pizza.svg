@@ -1,13 +1,13 @@
-<svg width="38" height="39" viewBox="0 0 38 39" xmlns="http://www.w3.org/2000/svg">
+<svg width="44" height="48" viewBox="0 0 44 48" xmlns="http://www.w3.org/2000/svg">
   <title>
-    Pizza
+    Pizza icon
   </title>
-  <g fill="none" fill-rule="evenodd">
+  <g transform="translate(3 9)" fill="none" fill-rule="evenodd">
     <path fill="#FFBAC8" d="M19 39L2 7h34"/>
     <path d="M19 32.573L32.603 7h1.594l.957 1.593L34.406 10H3.594l-.748-1.407L3.803 7h1.594L19 32.573zM2 7h34L19 39 2 7z" fill="#4E2B99"/>
     <circle fill="#4E2B99" cx="20.5" cy="22.5" r="4.5"/>
     <circle fill="#4E2B99" cx="15.5" cy="14.5" r="3.5"/>
-    <circle fill="#4E2B99" cx="23.25" cy="14.25" r="2.75"/>
+    <circle fill="#4E2B99" cx="23.5" cy="14" r="2.5"/>
     <path d="M3 5c0-1.105.89-2 2.002-2h27.996C34.104 3 35 3.888 35 5c0 1.105-.89 2-2.002 2H5.002C3.896 7 3 6.112 3 5z" fill="#FFBAC8"/>
     <path d="M5.002 7h27.996C34.11 7 35 6.105 35 5c0-1.112-.896-2-2.002-2H5.002C3.89 3 3 3.895 3 5c0 1.112.896 2 2.002 2zm0-7h27.996C35.76 0 38 2.23 38 5c0 2.763-2.234 5-5.002 5H5.002C2.24 10 0 7.77 0 5c0-2.763 2.234-5 5.002-5z" fill="#4E2B99"/>
   </g>

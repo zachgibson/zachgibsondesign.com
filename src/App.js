@@ -9,6 +9,9 @@ import logo from './logo.svg';
 import camo from './camo.svg';
 import './App.css';
 import './webfonts/fonts.css';
+import catalystScreenshot from './catalyst.png';
+import cinnabarScreenshot from './cinnabar.png';
+
 
 class App extends Component {
   render() {

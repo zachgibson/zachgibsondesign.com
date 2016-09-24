@@ -7,9 +7,6 @@ import { colors } from './config';
 import { icon } from './icons';
 import logo from './logo.svg';
 import camo from './camo.svg';
-import iPhone from './iPhone.svg';
-import catalyst from './catalyst.png';
-import cinnabar from './cinnabar.png';
 import './App.css';
 import './webfonts/fonts.css';
 

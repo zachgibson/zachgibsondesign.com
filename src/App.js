@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { Motion, spring } from 'react-motion';
+
 import { colors } from './config';
 import { icon } from './icons';
 import logo from './logo.svg';

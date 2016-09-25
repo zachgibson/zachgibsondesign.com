@@ -90,8 +90,8 @@ class App extends Component {
                   }
                 </div>
               </div>
-              <div style={{ marginBottom: 96 }}>
-                <h4 style={{ textTransform: 'uppercase', letterSpacing: 0.42 }}>Prototypes</h4>
+              <div style={{ marginTop: 80, marginBottom: 80 }}>
+                <h1 className="H1" style={{ fontStyle: "italic" }}>More work coming soon.</h1>
               </div>
               
               <div className="Footer">

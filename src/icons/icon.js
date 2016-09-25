@@ -11,6 +11,7 @@ import instagram from './instagram.svg';
 import github from './github.svg';
 import pinterest from './pinterest.svg';
 import dribbble from './dribbble.svg';
+import facebook from './facebook.svg';
 
 export default {
   sock: sock,
@@ -25,5 +26,6 @@ export default {
   instagram: instagram,
   github: github,
   pinterest: pinterest,
-  dribbble: dribbble
+  dribbble: dribbble,
+  facebook: facebook
 }

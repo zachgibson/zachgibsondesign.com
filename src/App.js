@@ -129,6 +129,9 @@ class App extends Component {
                     <a className="Footer-social-icon" href="https://dribbble.com/zacharygibson">
                       <img src={icon.dribbble} alt="dribbble" />
                     </a>
+                    <a className="Footer-social-icon" href="https://www.facebook.com/zachary.gibson.56">
+                      <img src={icon.facebook} alt="facebook" />
+                    </a>
                   </div>
                 </div>
               </div>

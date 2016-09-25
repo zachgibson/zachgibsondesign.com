@@ -95,7 +95,7 @@ class App extends Component {
               </div>
               
               <div className="Footer">
-                <img style={{ zIndex: 0, position: 'absolute', bottom: 0, left: -120 }} src={camo} alt="camo" />
+                <img style={{ position: 'absolute', bottom: 0, left: -120 }} src={camo} alt="camo" />
                 <div className="Footer-top">
                   <div style={{ flex: 1 }}>
                     <p style={{ fontSize: 12, textTransform: 'uppercase' }}>Contact</p>

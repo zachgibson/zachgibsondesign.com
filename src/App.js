@@ -39,7 +39,15 @@ class App extends Component {
           return (
             <div className="App" style={{ opacity: val.opacity, color: colors.purple }}>
               <div className="App-header">
-                <a href="/"><img src={logo} alt="logo" /></a>
+                <div style={{ flex: 1 }}>
+                  <a href="/"><img src={logo} alt="logo" /></a>
+                </div>
+                <div style={{ flex: 1 }}>
+                  <ul style={{ display: 'flex', justifyContent: 'flex-end', listStyle: 'none' }}>
+                    <li><a style={{ cursor: 'not-allowed', opacity: 0.5, padding: 24, fontSize: 19, letterSpacing: 0.24, color: colors.red, textDecoration: 'line-through' }}>Blog</a></li>
+                    <li><a style={{ cursor: 'not-allowed', opacity: 0.5, padding: 24, fontSize: 19, letterSpacing: 0.24, color: colors.red, textDecoration: 'line-through' }}>Experiments</a></li>
+                  </ul>
+                </div>
               </div>
               <h1 className="H1">Yo! I’m Zach, and I design apps.</h1>
               <div style={{ maxWidth: 1024 }}>

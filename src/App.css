@@ -151,6 +151,9 @@
 }
 
 @media (min-width: 960px) {
+  .Footer {
+    padding-top: 125px;
+  }
   .Footer-top, .Footer-bottom {
     display: flex;
   }

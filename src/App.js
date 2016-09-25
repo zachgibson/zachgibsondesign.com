@@ -43,7 +43,7 @@ class App extends Component {
               </div>
               <h1 className="H1">Yo! I’m Zach, and I design apps.</h1>
               <div style={{ maxWidth: 1024 }}>
-                <p style={{ margin: 0, fontSize: '2.125rem', fontWeight: 'bold', lineHeight: '3.25rem', letterSpacing: -0.88, }}>
+                <p style={{ margin: 0, fontSize: '2.125rem', fontWeight: 'bold', lineHeight: '40px', letterSpacing: -0.88, }}>
                   I’m a fan of rad socks
                   <img className="App-header-icon" src={icon.sock} alt="sock" />,
                   outer space

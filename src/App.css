@@ -74,6 +74,36 @@
   margin-bottom: 40px;
 }
 
+.Project-text {
+  position: relative;
+}
+
+.Project-left-aligned .Project-text::after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  top: 70%;
+  left: 0;
+  transform-origin: left bottom;
+  transform: translate(-50%, -50%) skewY(-6deg) skewX(-6deg);
+  width: 880px;
+  height: 480px;
+  background-color: #FFF1ED;
+}
+
+.Project-right-aligned .Project-text::after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  transform-origin: left bottom;
+  transform: translate(-50%, -50%) skewY(6deg) skewX(6deg);
+  width: 880px;
+  height: 480px;
+  background-color: #FFF1ED;
+}
+
 .iPhone {
   position: relative;
   z-index: 1;

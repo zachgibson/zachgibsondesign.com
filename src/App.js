@@ -11,6 +11,7 @@ import './App.css';
 import './webfonts/fonts.css';
 import catalystScreenshot from './catalyst.png';
 import cinnabarScreenshot from './cinnabar.png';
+import concertScreenshot from './concert.png';
 
 var selectedProjects = [
   {
@@ -28,6 +29,14 @@ var selectedProjects = [
     "googleLink": "",
     "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/Cinnabar.mov",
     "posterImage": cinnabarScreenshot
+  },
+  {
+    "title": "MSG Concert Series",
+    "copy": "This is a quick protoype I designed and helped build for a Concert Series at Madison Square Garden. The idea was to create an app where people could unlock experiences with ticket bundles that would give them access to content like music and media, relevant to the artist’s concert.",
+    "iTunesLink": "",
+    "googleLink": "",
+    "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/Concert.mov",
+    "posterImage": concertScreenshot
   },
 ];
 

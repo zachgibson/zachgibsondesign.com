@@ -149,6 +149,29 @@
   .Project-right-aligned { flex-direction: row; }
 }
 
+@media screen and (min-width: 640px) {
+  .misc-projects {
+    display: flex;
+    flex-direction: row;
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+
+  .project-column-container:nth-child(2) {
+    margin-left: 56px;
+    margin-right: 56px;
+  }
+}
+
+.project-column-container {
+  flex: 1;
+}
+
+.project-thumb {
+  display: block;
+  margin-bottom: 56px;
+}
+
 .Footer {
   position: relative;
 }

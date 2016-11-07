@@ -1,8 +1,11 @@
 .App {
-  max-width: 1200px;
-  margin: auto;
   padding-left: 16px;
   padding-right: 16px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
 }
 
 .App-logo {

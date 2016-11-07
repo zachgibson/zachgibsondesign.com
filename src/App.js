@@ -184,7 +184,9 @@ class App extends Component {
                 </div>
               </div>
               <div style={{ marginTop: 80, marginBottom: 80 }}>
-                <h1 className="H1" style={{ fontStyle: "italic" }}>Gucci.</h1>
+                <div className="container">
+                  <h4 style={{ textTransform: 'uppercase', letterSpacing: 0.42 }}>Design Work</h4>
+                </div>
                 <div className="misc-projects">
                   <div className="project-column-container">
                     {

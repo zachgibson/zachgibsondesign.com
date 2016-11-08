@@ -274,7 +274,7 @@ class App extends Component {
                     </div>
                     <div style={{ flex: 1 }}>
                       <p style={{ fontSize: 12, textTransform: 'uppercase' }}>Jamming</p>
-                      <a style={{ color: colors.red, fontSize: 19, fontWeight: 'bold', textDecoration: 'none' }} href="https://itun.es/us/g2Sieb">Stranger Things Soundtrack</a>
+                      <a style={{ color: colors.red, fontSize: 19, fontWeight: 'bold', textDecoration: 'none' }} href="https://itun.es/us/yjH1db">Harrison Brome EP</a>
                     </div>
                     <div style={{ flex: 1 }}></div>
                   </div>

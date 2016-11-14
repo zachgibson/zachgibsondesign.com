@@ -33,7 +33,8 @@ var selectedProjects = [
     "iTunesLink": "https://appsto.re/us/Ttwsdb.i",
     "googleLink": "https://play.google.com/store/apps/details?id=com.buzznog.catalyst.FloridaGeorgiaLine",
     "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/FGL.mov",
-    "posterImage": catalystScreenshot
+    "posterImage": catalystScreenshot,
+    "altText": "florida georgia line app"
   },
   {
     "title": "Cinnabar",
@@ -41,7 +42,8 @@ var selectedProjects = [
     "iTunesLink": "https://appsto.re/us/0DO3db.i",
     "googleLink": "",
     "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/Cinnabar.mov",
-    "posterImage": cinnabarScreenshot
+    "posterImage": cinnabarScreenshot,
+    "altText": "cinnabar app"
   },
   {
     "title": "MSG Concert Series",
@@ -49,7 +51,8 @@ var selectedProjects = [
     "iTunesLink": "",
     "googleLink": "",
     "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/Concert.mov",
-    "posterImage": concertScreenshot
+    "posterImage": concertScreenshot,
+    "altText": "concert series prototype"
   },
 ];
 

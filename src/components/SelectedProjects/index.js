@@ -17,7 +17,7 @@ class SelectedProjects extends Component {
   }
 
   render() {
-    const { title, copy, iTunesLink, googleLink, videoURL, i, posterImage } = this.props;
+    const { title, copy, iTunesLink, googleLink, videoURL, i, posterImage, altText } = this.props;
 
     return (
       <div className={i % 2 ? 'Project-left-aligned' : 'Project-right-aligned'}>
@@ -57,7 +57,7 @@ class SelectedProjects extends Component {
                       className="iPhone-media-background"
                       style={{ backgroundColor: colors.purple }}
                     >
-                      <img style={{ opacity: 0.5, width: 276, height: 491 }} src={posterImage} />
+                      <img style={{ opacity: 0.5, width: 276, height: 491 }} src={posterImage} alt={altText} />
                     </div>
                     <img
                       className="Play-button"

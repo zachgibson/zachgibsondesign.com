@@ -25,6 +25,7 @@ import realtorApp from './realtor-app.png';
 import kanyeApp from './kanye-app.png';
 import cinnabarIconSet from './cinnabar-iconset.png';
 import bots from './bots.png';
+import kidsCampPoster from './kids-camp-poster.png';
 
 var selectedProjects = [
   {
@@ -72,6 +73,10 @@ var projectsColumnOne = [
     title: 'Like Animation',
     linkTitle: 'View in CodePen',
     link: 'http://codepen.io/zachgibson/pen/GoOqoK'
+  },
+  {
+    image: kidsCampPoster,
+    title: 'Fellowship Church Kid’s Camp Poster',
   },
   {
     image: gibsonLogo,

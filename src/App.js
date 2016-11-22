@@ -42,7 +42,7 @@ var selectedProjects = [
     "copy": "This is a side project my buddy and I have been working on to supplement the Gymming experience in Pokémon GO. Trying to defeat Charizard? Don’t worry, just use Golem with Rock Throw and Stone Edge for the best possible chance of defeat.",
     "iTunesLink": "https://appsto.re/us/0DO3db.i",
     "googleLink": "",
-    "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/Cinnabar.mov",
+    "videoURL": "https://s3-us-west-2.amazonaws.com/zach-random-stuff/cinnabar.mov",
     "posterImage": cinnabarScreenshot,
     "altText": "cinnabar app"
   },

@@ -26,6 +26,7 @@ import kanyeApp from './kanye-app.png';
 import cinnabarIconSet from './cinnabar-iconset.png';
 import bots from './bots.png';
 import kidsCampPoster from './kids-camp-poster.png';
+import instagramDemo from './instagram-demo.gif';
 
 var selectedProjects = [
   {
@@ -111,6 +112,10 @@ var projectsColumnThree = [
   {
     image: buzznogLogo,
     title: 'Buzznog Logo',
+  },
+  {
+    image: instagramDemo,
+    title: 'Instagram Composer Idea',
   },
   {
     image: realtorApp,

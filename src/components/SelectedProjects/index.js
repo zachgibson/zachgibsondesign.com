@@ -7,6 +7,30 @@ import play from '../../assets/play.svg';
 import iPhone from '../../assets/iPhone.svg';
 
 class SelectedProjects extends Component {
+  constructor(props) {
+    super(props);
+    this.onScroll = this.onScroll.bind(this);
+  }
+
+  componentDidMount() {
+    document.addEventListener('scroll', this.onScroll, false);
+  }
+
+  componentWillUnmount() {
+    document.removeEventListener('scroll', this.onScroll, false);
+  }
+
+  onScroll(e) {
+    let projectTop = this.project.getBoundingClientRect().top;
+    let projectBottom = this.project.getBoundingClientRect().bottom;
+    if (projectBottom < 0) return;
+    if (projectTop < 120 && projectBottom > 160) {
+      this.setState({ playing: true, overlayVisible: false });
+    } else {
+      this.setState({ playing: false, overlayVisible: true });
+    }
+  }
+
   state = {
     playing: false,
     overlayVisible: true
@@ -20,7 +44,10 @@ class SelectedProjects extends Component {
     const { title, copy, iTunesLink, googleLink, videoURL, i, posterImage, altText } = this.props;
 
     return (
-      <div className={i % 2 ? 'Project-left-aligned' : 'Project-right-aligned'}>
+      <div
+        ref={(project) => { this.project = project }}
+        className={i % 2 ? 'Project-left-aligned' : 'Project-right-aligned'}
+      >
         <div className="Project-text" style={{ zIndex: 1, maxWidth: 400, margin: 24 }}>
           <h2 className="H2">{title}</h2>
           <p className="Lead-text">{copy}</p>

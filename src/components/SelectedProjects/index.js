@@ -21,7 +21,7 @@ class SelectedProjects extends Component {
 
     return (
       <div className={i % 2 ? 'Project-left-aligned' : 'Project-right-aligned'}>
-        <div className="Project-text" style={{ zIndex: 1, maxWidth: 480, margin: 24 }}>
+        <div className="Project-text" style={{ zIndex: 1, maxWidth: 400, margin: 24 }}>
           <h2 className="H2">{title}</h2>
           <p className="Lead-text">{copy}</p>
           <div style={{ display: 'flex', flexDirection: 'row' }}>

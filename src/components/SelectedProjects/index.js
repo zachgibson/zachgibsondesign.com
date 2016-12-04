@@ -3,8 +3,8 @@ import { Motion, spring } from 'react-motion';
 import ReactPlayer from 'react-player';
 
 import { colors } from '../../config';
-import play from '../../play.svg';
-import iPhone from '../../iPhone.svg';
+import play from '../../assets/play.svg';
+import iPhone from '../../assets/iPhone.svg';
 
 class SelectedProjects extends Component {
   state = {

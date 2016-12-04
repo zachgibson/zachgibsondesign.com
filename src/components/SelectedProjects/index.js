@@ -13,11 +13,15 @@ class SelectedProjects extends Component {
   }
 
   componentDidMount() {
-    document.addEventListener('scroll', this.onScroll, false);
+    if (window.innerWidth > 640) {
+      document.addEventListener('scroll', this.onScroll, false);
+    }
   }
 
   componentWillUnmount() {
-    document.removeEventListener('scroll', this.onScroll, false);
+    if (window.innerWidth > 640) {
+      document.removeEventListener('scroll', this.onScroll, false);
+    }
   }
 
   onScroll(e) {

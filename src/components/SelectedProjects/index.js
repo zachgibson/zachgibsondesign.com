@@ -67,6 +67,7 @@ class SelectedProjects extends Component {
         <div className="iPhone">
           <div className="iPhone-media">
             <ReactPlayer
+              volume={0}
               width={276}
               height={491}
               url={videoURL}

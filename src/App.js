@@ -5,28 +5,28 @@ import { SelectedProjects } from './components';
 
 import { colors } from './config';
 import { icon } from './icons';
-import logo from './logo.svg';
-import camo from './camo.svg';
+import logo from './assets/logo.svg';
+import camo from './assets/camo.svg';
 import './App.css';
 import './webfonts/fonts.css';
-import catalystScreenshot from './catalyst.png';
-import cinnabarScreenshot from './cinnabar.png';
-import concertScreenshot from './concert.png';
-import whitneyWebsite from './whitney-website.png';
-import likeAnimation from './like-animation.gif';
-import gibsonLogo from './gibson-logo.png';
-import wmgCorporateApp from './wmg-corporate-app.png';
-import cinnabarAppIcon from './cinnabar-app-icon.png';
-import heIsRisenGraphic from './he-is-risen.png';
-import buzznogMusicPlayer from './buzznog-music-player.png';
-import buzznogLogo from './buzznog-logo.png';
-import buzznogIconSet from './buzznog-iconset.png';
-import realtorApp from './realtor-app.png';
-import kanyeApp from './kanye-app.png';
-import cinnabarIconSet from './cinnabar-iconset.png';
-import bots from './bots.png';
-import kidsCampPoster from './kids-camp-poster.png';
-import instagramDemo from './instagram-demo.gif';
+import catalystScreenshot from './assets/catalyst.png';
+import cinnabarScreenshot from './assets/cinnabar.png';
+import concertScreenshot from './assets/concert.png';
+import whitneyWebsite from './assets/whitney-website.png';
+import likeAnimation from './assets/like-animation.gif';
+import gibsonLogo from './assets/gibson-logo.png';
+import wmgCorporateApp from './assets/wmg-corporate-app.png';
+import cinnabarAppIcon from './assets/cinnabar-app-icon.png';
+import heIsRisenGraphic from './assets/he-is-risen.png';
+import buzznogMusicPlayer from './assets/buzznog-music-player.png';
+import buzznogLogo from './assets/buzznog-logo.png';
+import buzznogIconSet from './assets/buzznog-iconset.png';
+import realtorApp from './assets/realtor-app.png';
+import kanyeApp from './assets/kanye-app.png';
+import cinnabarIconSet from './assets/cinnabar-iconset.png';
+import bots from './assets/bots.png';
+import kidsCampPoster from './assets/kids-camp-poster.png';
+import instagramDemo from './assets/instagram-demo.gif';
 
 var selectedProjects = [
   {
